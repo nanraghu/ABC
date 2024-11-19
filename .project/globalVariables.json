@@ -1,0 +1,18 @@
+[
+  {
+    "Constant": false,
+    "Name": "GVar",
+    "TypeFullyQualifiedName": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "\"1\"",
+    "IsLiteral": false
+  },
+  {
+    "Constant": true,
+    "Name": "GConts",
+    "TypeFullyQualifiedName": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "\"qwe\"",
+    "IsLiteral": false
+  }
+]

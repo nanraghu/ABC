@@ -103,7 +103,7 @@
         <OutArgument x:TypeArguments="scg:List(x:Int32)">[Nums]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="scg:List(x:Int32)">[new List(Of Int32) from {1, 2 ,0, 100, 300, 400}]</InArgument>
+        <InArgument x:TypeArguments="scg:List(x:Int32)">[new List(Of Int32) from {1, 2 ,0, 100}]</InArgument>
       </Assign.Value>
     </Assign>
     <InvokeMethod DisplayName="Invoke Method" sap:VirtualizedContainerService.HintSize="434,170.66666666666666" sap2010:WorkflowViewState.IdRef="InvokeMethod_1" MethodName="Sort">
